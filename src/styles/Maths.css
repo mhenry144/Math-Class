@@ -1,0 +1,22 @@
+.maths__app {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.math__question {
+  font-size: 50px;
+  object-fit: contain;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.input__box {
+  padding: 15px;
+  margin: 10px;
+}
+.submit__button {
+  margin: 10px;
+}
+.score {
+  padding: 10px;
+}

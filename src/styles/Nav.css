@@ -1,0 +1,10 @@
+.nav__bar {
+  border-bottom: 1px solid #000;
+  margin: 30px;
+}
+.header {
+  font-size: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
